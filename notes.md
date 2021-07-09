@@ -21,3 +21,5 @@ Your goal in this kata is to create complete the mouth_size method this method t
     1. :red_circle:RED (I forgot to add this at the first time now you can see it together with GREEN)
     1. :heavy_check_mark: GREEN 
     1. :factory: REFACTOR
+1. Iteration 2
+    1. :red_circle:RED 

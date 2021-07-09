@@ -5,4 +5,8 @@ describe('test Mount Size functions', () => {
     const mountSize = new MountSize();
     expect(mountSize.getMountSize("ant")).toBe("wide");
   });
+  it('animal alligator is small', () => {
+    const mountSize = new MountSize();
+    expect(mountSize.getMountSize("alligator")).toBe("small");
+  });
 });

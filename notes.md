@@ -1,4 +1,5 @@
-# The Wide-Mouthed frog! (https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
+# The Wide-Mouthed frog! 
+(https://www.codewars.com/kata/57ec8bd8f670e9a47a000f89/train/javascript)
 
 ## Instruction:
 The wide mouth frog is particularly interested in the eating habits of other creatures.
@@ -9,4 +10,8 @@ When he meets the alligator, it then makes a tiny mouth.
 
 Your goal in this kata is to create complete the mouth_size method this method take one argument animal which corresponds to the animal encountered by frog. If this one is an alligator (case insensitive) return small otherwise return wide.
 
-## notes
+## Notes
+### Architecture
+* function: mouthSize
+    * input: animal
+    * output: small or wide

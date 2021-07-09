@@ -1,7 +1,11 @@
 class MountSize {
     
     getMountSize(animal) {
-      return "wide";
+        if (animal == "alligator") {
+            return "small";
+        } else {
+            return "wide";
+        }   
     }
 }
   

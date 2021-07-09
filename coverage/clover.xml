@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1625820229079" clover="3.2.0">
-  <project timestamp="1625820229079" name="All files">
+<coverage generated="1625820520374" clover="3.2.0">
+  <project timestamp="1625820520374" name="All files">
     <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
     <file name="mountSize.js" path="C:\work\xpfarm\kata\The_Wide-Mouthed_frog\src\mountSize.js">
       <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
